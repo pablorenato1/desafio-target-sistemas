@@ -1,0 +1,26 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.sln
+
+# Build and object files
+bin/
+obj/
+
+# Packages
+*.nuget.config
+packages/
+*.nupkg
+*.paket.restore.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Other
+node_modules/
+bower_components/

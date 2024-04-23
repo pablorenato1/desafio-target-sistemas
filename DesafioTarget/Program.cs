@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using DesafioTarget.challenges;
+class Program
+{
+    static void Main(string[] args)
+    {
+        Challenge1.Run();
+    }
+}
