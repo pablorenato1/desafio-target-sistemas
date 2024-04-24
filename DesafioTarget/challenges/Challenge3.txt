@@ -1,0 +1,21 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+
+a) 1, 3, 5, 7, _9_
+Explicação: Esta sequência parece ser uma sequência de números ímpares. A lógica aqui é simples: cada número é obtido adicionando 2 ao número anterior. Portanto, o próximo número seria 7 + 2 = 9.
+
+b) 2, 4, 8, 16, 32, 64, _128_
+Explicação: Nesta sequência, os números parecem ser potências de 2, mas com um padrão multiplicativo diferente. Cada número é o dobro do número anterior, então 2 é multiplicado por 2, 4 é multiplicado por 2, 8 é multiplicado por 2, e assim por diante. Portanto, o próximo número seria 64 × 2 = 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, _49_
+Explicação: Esta sequência parece ser o quadrado dos números naturais. Cada número é o quadrado do seu índice na sequência. Portanto, o próximo número seria 7² = 49.
+
+d) 4, 16, 36, 64, _100_
+Explicação: Esta sequência também parece ser o quadrado dos números, mas apenas dos números pares. Cada número é o quadrado de um número par. Os números pares correspondentes são 2, 4, 6, 8, ..., que correspondem à sequência 2², 4², 6², 8², ... Portanto, o próximo número seria 10² = 100.
+
+e) 1, 1, 2, 3, 5, 8, _13_
+Explicação: Esta sequência parece ser a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Os números iniciais são 1 e 1, então o próximo número seria 5 + 8 = 13.
+
+
+f) 2, 10, 12, 16, 17, 18, 19, _200_
+Explicação: Todos os números da sequencia acima começam com a Letra D.
